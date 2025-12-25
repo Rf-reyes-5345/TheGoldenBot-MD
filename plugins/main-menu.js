@@ -28,7 +28,7 @@ const defaultMenu = {
 
 
 🎁 » 𝐌𝐄𝐍𝐔 𝐃𝐄 𝐍𝐀𝐕𝐈𝐃𝐀𝐃 🎅🏻 «  
-👑 » 𝗢𝗽𝗲𝗿𝗮𝗱𝗼𝗿:—͟͟͞͞ 𝐓𝐡𝐞 𝐂𝐚𝐫𝐥𝐨𝐬 𖣘 «
+👑 » 𝗢𝗽𝗲𝗿𝗮𝗱𝗼𝗿:—͟͞͞❍⌇─➭⌗尺ℯγℯᔆ: ๑ ˚ ͙۪۪̥ ⌨ᵒᶠᶜ «
 %readmore
 `.trimStart(),
 
@@ -147,9 +147,9 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       contextInfo: {
         externalAdReply: {
           title: menuTitle,
-          body: 'ִ┊࣪ ˖𝐃𝐞𝐯 • 𝐓𝐡𝐞 𝐂𝐚𝐫𝐥𝐨𝐬 ♱',
+          body: 'ִ┊࣪ ˖❍⌇─➭⌗尺ℯγℯᔆ: ๑ ˚ ͙۪۪̥ ⌨ᵒᶠᶜ ♱',
           thumbnail: uniqueThumb,
-          sourceUrl: 'https://github.com/thecarlos19/black-clover-MD',
+          sourceUrl: 'https://github.com/Rf-reyes-5345/TheGoldenBot-MD',
           mediaType: 1,
           renderLargerThumbnail: true
         }
